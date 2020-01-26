@@ -1,0 +1,15 @@
+.col-lg-6 + .col-lg-6{
+    border-left: 1px solid #0000003b;
+}
+
+input{
+	width: 49%;
+}
+
+fieldset{
+	padding: 40px;
+}
+
+img{
+	border-radius: .3rem;
+}
